@@ -6,7 +6,7 @@ I'll be using this repository to explore **generative art and creative coding**,
 
 <br>
 
-## Projects
+## Projects (I'll add GIFs soon)
 
 ### Spirographs
 
