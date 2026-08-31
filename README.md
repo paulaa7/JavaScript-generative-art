@@ -6,7 +6,7 @@ I'll be using this repository to explore **generative art and creative coding**,
 
 <br>
 
-## Projects (I'll add GIFs soon)
+## Projects
 
 ### Spirographs
 
@@ -14,8 +14,8 @@ An experiment with mathematical curves inspired by traditional spirographs.
 
 [**View project →**](./Spirographs)
 
-<!-- GIF -->
-<!-- ![Spirographs](./path/to/spirographs.gif) -->
+<img src="./Spirographs/video.gif" alt="Spirograph" width="400">
+
 
 <br>
 
