@@ -39,6 +39,11 @@ A generative animation exploring trigonometric functions, rotation, and changing
 <img src="./hypnotic%20flowers/video.gif" alt="hypnotic flowers" width="400">
 
 
+Alternative animation where the flowers rotate in different directions:
+
+<img src="./hypnotic%20flowers/video2.gif" alt="hypnotic flowers" width="400">
+
+
 <!-- ## What I'm exploring
 
 Some of the things I'm playing around with:
