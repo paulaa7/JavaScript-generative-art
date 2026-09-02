@@ -25,8 +25,7 @@ An interactive pixel grid where the user's movement affects the pattern and crea
 
 [**View project →**](./Interactive%20pixel%20grid)
 
-<!-- GIF -->
-<!-- ![Interactive Pixel Grid](./path/to/pixel-grid.gif) -->
+<img src="./Spirographs/video.gif" alt="Interactive pixel grid" width="400">
 
 <br>
 
