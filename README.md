@@ -36,7 +36,7 @@ A generative animation exploring trigonometric functions, rotation, and changing
 [**View project →**](./hypnotic%20flowers)
 
 <!-- GIF -->
-<!-- ![Hypnotic Flowers](./path/to/hypnotic-flowers.gif) -->
+<img src="./hypnotic%20flowers/video.gif" alt="hypnotic flowers" width="400">
 
 
 <!-- ## What I'm exploring
